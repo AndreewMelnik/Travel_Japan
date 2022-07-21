@@ -59,3 +59,7 @@
     color: #fff;
     text-decoration: none;
   }
+
+  .nav__link:hover, .nav__link:focus, .nav__link:active {
+    opacity: 0.75;
+  }

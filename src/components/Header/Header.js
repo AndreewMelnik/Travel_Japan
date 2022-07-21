@@ -6,8 +6,8 @@ function Header() {
         <div className="wrapper">
             <div className="header__wrapper">
                 <div className="header__logo">
-                    <a class="header__logo-link" href="/">
-                        <img class="header__logo-img" src="./img/svg/odigo-Logo.svg" alt="Discover Amazing places in Japan" />
+                    <a className="header__logo-link" href="/">
+                        <img className="header__logo-img" src="./img/svg/odigo-Logo.svg" alt="Discover Amazing places in Japan" />
                     </a>
                 </div>
 

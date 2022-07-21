@@ -1,4 +1,5 @@
 import './Intro.css';
+import Search from '../Search/Search'
 
 function Intro() {
   return (
@@ -20,6 +21,7 @@ function Intro() {
                         </fieldset>
                     </form>
                 </div> */}
+                 <Search/>
             </div>
   );
 }
