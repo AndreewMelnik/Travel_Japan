@@ -1,6 +1,5 @@
 import Intro from '../Intro/Intro';
 import Header from '../Header/Header';
-import Search from '../Search/Search'
 import './App.css';
 
 function App() {
