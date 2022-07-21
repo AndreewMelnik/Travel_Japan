@@ -4,7 +4,7 @@
     display: flex;
     flex-wrap: wrap;
     align-items:flex-end;
-    justify-content: space-between;
+    justify-content: space-around;
     top: 0;
     left: 0;
     width: 100%;
@@ -12,9 +12,10 @@
     -o-transition: all 0.2s linear;
     transition: all 0.2s linear;
     padding-bottom: 20px;
+    padding-top: 3%;
     z-index: 10;
-    background: rgba(14, 29, 40, 0.9);
-    max-width: 1060px;
+    /* background: rgba(14, 29, 40, 0.9); */
+    /* max-width: 1060px; */
     margin: 0 auto;
 }
 

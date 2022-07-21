@@ -5,7 +5,7 @@ function Header() {
     <header className="header">
         <div className="header__logo">
              <a class="header__logo-link" href="/">
-                 <img class="header__logo-img" src="/assets/img/svg/odigo-Logo.svg" alt="Discover Amazing places in Japan" />
+                 <img class="header__logo-img" src="./img/svg/odigo-Logo.svg" alt="Discover Amazing places in Japan" />
              </a>
         </div>
 
