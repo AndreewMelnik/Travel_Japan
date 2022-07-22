@@ -1,4 +1,28 @@
 .benefits{
     position: relative;
     margin: 0 auto;
+    max-width: 1262px;
 }
+
+.wrapper{
+    margin: 0 auto;
+    max-width: 1060px;
+}
+
+.benefits__title{
+    font-size: 35px;
+    padding-top: 93px;
+    padding-bottom: 120px;
+  }
+
+.benefits__grid{
+    max-width: 400px; /* максимальная ширина контейнера */
+    margin: auto; /* центрирование контейнера на странице */
+    background-color: lightsteelblue; /* фон */
+    padding: 10px; /* внутренние отступы */
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
