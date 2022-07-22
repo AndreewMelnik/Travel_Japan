@@ -496,3 +496,12 @@ html {
   margin: 0 auto;
   padding: 0 15px;
   }
+
+.wrapper__main{
+  max-width: 1262px;
+  margin: 0 auto;
+}
+
+.title{
+  font-size: 35px;
+}
