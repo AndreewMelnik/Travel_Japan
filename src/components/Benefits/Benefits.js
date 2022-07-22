@@ -1,4 +1,5 @@
 import './Benefits.css';
+import BenefitsCards from './BenefitsCard';
 
 function Benefits() {
   return (
@@ -7,9 +8,7 @@ function Benefits() {
         <h1 className="benefits__title">Benefits of Odigo</h1>
         <div className="benefits__cards">
             <div class="benefits__grid">
-                <div class="benefits__card">A</div>
-                <div class="benefits__card">B</div>
-                <div class="benefits__card">C</div>
+                <BenefitsCards/>.
             </div>
         </div>
     </div>
